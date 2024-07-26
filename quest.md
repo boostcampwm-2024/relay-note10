@@ -155,5 +155,5 @@ Goal을 정하고 Plan을 만들고, Action을 하고 Measure를 진행해 결�
 | J030 |✅|✅|✅|✅|✅|✅|✅| [퀘스트 인증](https://ritzy-moss-d30.notion.site/1bf94f4f32694c03bb1bf9c6f00c02aa?pvs=4) |
 | J088 |  |  |  |  |  |  |  |  |
 | J258 |  |  |  |  |  |  |  |  |
-| S067 |  |  |  |  |  |  |  |  |
+| S067 |  |  |✅|✅|✅|✅|✅|[퀘스트인증](https://joonyong.notion.site/GPAM-89b255c26a9c4c9cafad4cdaa7519dc5?pvs=4)|
 | K053 |  |  |  |✅|✅|✅|✅| [퀘스트 인증](https://giddy-debt-b01.notion.site/3345950fbf0e419982d80b44bad33175?pvs=4) |
