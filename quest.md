@@ -365,7 +365,7 @@ Measure : 실천 결과를 평가한다.
 | J051 |  |  |  |  |  |
 | J166 |  |  |  |  |  |
 | J214 |✅|✅|✅|✅|[퀘스트 링크](https://meteor-turner-e80.notion.site/2-3fd5b21c5b644324bdc6cdbde402961e?pvs=4)| 
-| J248 |  |  |  |  |  | 
+| J248 |✅|✅|✅|✅|[퀘스트 링크](https://doromo.notion.site/2-0ab2b8eb02c640bebde33273cd3f14d4?pvs=4)| 
 | S058 |  |  |  |  |  | 
 | S074 |  |  |  |  |  |
 
