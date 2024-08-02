@@ -363,7 +363,7 @@ Measure : 실천 결과를 평가한다.
 | 수행자  | 7/29 | 7/30 | 7/31 | 8/1 | 링크 |
 |------| --- | --- | --- | --- | --- | 
 | J051 |  |  |  |  |  |
-| J166 |  |  |  |  |  |
+| J166 |❌|❌|❌|✅|[퀘스트 링크](https://gist.github.com/stupidJoon/995e1a9050c7034dcb97ff15eeee52bd#file-test-js)|
 | J214 |✅|✅|✅|✅|[퀘스트 링크](https://meteor-turner-e80.notion.site/2-3fd5b21c5b644324bdc6cdbde402961e?pvs=4)| 
 | J248 |✅|✅|✅|✅|[퀘스트 링크](https://doromo.notion.site/2-0ab2b8eb02c640bebde33273cd3f14d4?pvs=4)| 
 | S058 |  |  |  |  |[퀘스트 링크](https://spangle-mochi-431.notion.site/Week2-341f58d8cd874ca4beea448db117f27b?pvs=4)| 
